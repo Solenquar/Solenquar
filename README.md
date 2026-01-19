@@ -1,16 +1,20 @@
-## Hi there 👋
+# Solenquar
 
-<!--
-**Solenquar/Solenquar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Solenquar is a forthcoming library for interacting with Codex, designed to make agent workflows feel crisp, observable, and dependable. We are building it quietly and will share more soon.
 
-Here are some ideas to get you started:
+Learn more at https://yourstoragespace.ca/.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What to expect
+
+- Intent-first orchestration for Codex workflows
+- Deterministic tool routing and reproducible runs
+- Built-in tracing that keeps every decision transparent
+- Drop-in integration with existing developer tooling
+
+## Status
+
+Solenquar is in private development. If you want early access or updates, keep an eye on https://yourstoragespace.ca/ and watch this repository.
+
+## Stay in the loop
+
+We will publish release notes, examples, and installation steps here first. Until then, the best place to track announcements is https://yourstoragespace.ca/.
