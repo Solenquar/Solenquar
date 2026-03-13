@@ -12,16 +12,26 @@ Learn more at https://yourstoragespace.ca/.
 - Built-in tracing that keeps every decision transparent
 - Drop-in integration with existing developer tooling
 
-## Status
-
-Solenquar is in open development but we encourage user to clone our repository to try our latest stable version. To receive updates, connect with us at https://yourstoragespace.ca/ and watch this repository.
-
-## Alpha 0.01 access
+## Installation instructions
 Follow the following instructions to install our current stable version:
 ```
 git clone https://github.com/Solenquar/Solenquar
 ./installer.py
 ```
+## Usage:
+After installing Solenquar, run ```codex --help --solenquar``` to view the additional codex plugins that are now available and can be enabled at your discretion.
+To enable a plugin run ```codex --solenquar --enable 'plugin-name'```
+Furthermore, you will see additional prompts that are now available to add into your codex session in the following locations:
+#### MacOS
+```~/Documents/.solenquar/prompts/```
+#### Windows
+```C:\Users\Your Username\Solenquar\Prompts```
+
+While in a codex session you can simply say ```solenquar``` to enable it in your current session.
+
+## Status
+
+Solenquar is in open development but we encourage user to clone our repository to try our latest stable version. To receive updates, connect with us at https://yourstoragespace.ca/ and watch this repository.
 
 
 ## Stay in the loop
