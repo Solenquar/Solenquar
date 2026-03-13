@@ -16,7 +16,7 @@ Learn more at https://yourstoragespace.ca/.
 Follow the following instructions to install our current stable version:
 ```
 git clone https://github.com/Solenquar/Solenquar
-./installer.py
+python installer.py
 ```
 ## Usage:
 After installing Solenquar, run ```codex --help --solenquar``` to view the additional codex plugins that are now available and can be enabled at your discretion.
